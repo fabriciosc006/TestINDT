@@ -1,0 +1,28 @@
+TC1: Coments with special characters
+Pre Conditions:
+1.Active account on Instagram
+2.Follow at least 1 person on Instagram
+Steps to Reproduce:
+1. Go to a person who you follow
+2. type a coment with normal charactes and special characters
+3. Go to a famous person or who You don't follow 
+4. Type as same as Step 2
+
+Expected Result:
+2. The coment must be typed correctly with no issues
+4. The coment must not be available
+
+
+TC2: Direct Message for Multiple Users
+Pre conditions:
+1. Active account on Instagram
+2. One Active file in Story of a Person that you follow
+Steps to Reproduce:
+1. Go to one follower Story
+2. Click on arrow in the left corner and down the screen
+3. Type a text in message field, including a special character
+4. Select multiple users to send (minimum 2 users)
+5. Click on send button
+Expected Result 
+4. The multiple users must be selected with no issues
+5. The message must be sent to users. Go to chat window to check it     
